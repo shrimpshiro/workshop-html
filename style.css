@@ -1,1 +1,18 @@
-inhoud
+body {
+    font-family: Poppins;
+    background-color: #f1f1f1;
+}
+
+h1 {
+  color: red; 
+  font-family: Poppins;
+  font-size: 50px;
+}
+
+p {
+    width: 1000px;
+}
+
+.anya {
+    max-width: 1000px;;
+}
